@@ -11,7 +11,7 @@ import './models/mines_info.dart';
 import './widgets/resourcesBar.dart';
 import './models/globals.dart' as globals;
 
-
+// one change
 
 void main() => runApp(MyApp());
 
